@@ -1,8 +1,8 @@
 # Site A — Governance Commons: source-grounded test brief
 
-**Status:** Source reviewed, visual/browser testing **not performed**.
+**Status:** Local visual/browser test completed 2026-10-24; no Governance Commons files changed.
 **Source repository:** https://github.com/governancecommons/governance-commons-www
-**Source revision reviewed:** main, tree `ce5538691937c919a31257df902143e616f4052e`
+**Source revision tested:** main, commit `a6d29fb650f4a72c7ffdd980bd4deba4c26d7c0e`
 **Public URL:** https://governancecommons.org
 **Date:** 2026-10-24
 
@@ -28,7 +28,7 @@
 4. **Information density:** Are the long explanatory sections scannable? Is the distinction between released specs, tooling and institutional authority preserved?
 5. **Focus/zoom:** Does the fixed header obscure focused elements or anchor targets at increased text size/zoom?
 
-None of these is a confirmed rendered defect.
+The completed audit confirms two bounded concerns: later mobile navigation items are initially outside the horizontally scrollable viewport, although keyboard focus reaches and exposes them; and the layout has no skip link. The hero remained readable and operable at the tested widths. See [`evidence/site-a-governance-commons/RESULT.md`](evidence/site-a-governance-commons/RESULT.md).
 
 ## Before proceeding
 
