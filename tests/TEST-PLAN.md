@@ -1,0 +1,54 @@
+# AI UI Rescue — Two-site test plan
+
+Status: **planned; no verified results yet**.
+
+## Sites
+
+- **A: Governance Commons** — existing public website; protect existing technical claims and functional behavior.
+- **B: Simple fictional AI-built small-business landing page** — create once using a neutral baseline prompt, then freeze that baseline.
+
+## Baseline generation prompt for Site B
+
+> Create a modern, professional one-page website for Cedar & Stone Home Services, a fictional local handyman business. Include a hero section, three service cards, an About section, sample testimonials clearly marked as fictional, and a contact section. Make it responsive, use placeholder contact information, and do not add a backend or paid services.
+
+## Controlled comparison
+
+For each site:
+
+1. Save a dated baseline and capture screenshots at **390px** and **1440px** viewport widths (same browser/device settings).
+2. Document working links, navigation, forms, and other behavior.
+3. In separate fresh conversations with the **same model**, provide identical materials to:
+   - **Control:** "Review this website and tell me how to make it look more professional without breaking anything."
+   - **Rescue:** the relevant AI UI Rescue prompt(s).
+4. Score recommendations independently before implementation.
+5. Apply only approved recommendations to isolated copies/checkpoints.
+6. Compare rendered before/after results with the same screenshot conditions and verify functionality.
+7. Record failed checks, unverified claims, and correction attempts.
+
+## Scorecard — 100 points
+
+- Specific, evidence-backed findings: 25
+- Actionable improvements: 25
+- Visual design judgment: 20
+- Functionality preservation: 15
+- Responsive/accessibility coverage: 15
+
+Use 1–5 ratings per criterion; multiply rating/5 by criterion weight. A 15-point improvement is an **experimental threshold**, not proof of market demand.
+
+## Results record
+
+- Date:
+- Site and baseline commit/URL:
+- Browser / viewport:
+- Model and version:
+- Input materials supplied:
+- Prompt version:
+- Control score / Rescue score:
+- Implemented changes:
+- Verified successes:
+- Regression failures:
+- Evidence links/screenshots:
+- Reviewer notes:
+- Unverified items:
+
+Never manufacture screenshots, test passes, accessibility conformance, or buyer interest.
