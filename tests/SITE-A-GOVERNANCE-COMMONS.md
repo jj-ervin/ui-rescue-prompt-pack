@@ -39,5 +39,5 @@ Capture the live page at 390px, 768px and 1440px at equivalent zoom; note viewpo
 - Control: "Review this website and tell me how to make it look more professional without breaking anything."
 - Rescue: prompt 01, then targeted prompt 03 or 09 if the audit justifies it.
 - Compare independent audit results with TEST-PLAN.md scorecard before changes.
-- Any implementation must happen in an isolated branch or copy of the *Governance Commons* website, not inside this income-experiments repository.
+- Any implementation must happen in an isolated branch or copy of the *Governance Commons* website, not inside this prompt-pack repository.
 - Do not change production pages or claims solely for a commercial demonstration.
