@@ -1,6 +1,6 @@
 # AI UI Rescue Kit — Product Specification
 
-**Status:** v1.0 content draft, not verified/released
+**Status:** v1.0 content draft; first two-site local visual test completed; not independently verified or released
 **Proposed price:** $9 one-time
 **Buyer:** non-developers improving sites made with AI website builders or coding assistants
 

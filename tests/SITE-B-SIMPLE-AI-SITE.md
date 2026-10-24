@@ -1,6 +1,6 @@
 # Site B — Simple AI-built website: controlled baseline
 
-**Status:** Scenario specified; website not generated or rendered.
+**Status:** Baseline frozen at commit `61950bab3dc13c6b6e1093c7a84296853b05032d`; isolated makeover and local evidence completed 2026-10-24.
 **Fictional business:** Cedar & Stone Home Services (handyman landing page)
 **Purpose:** Demonstrate improvement on a buyer-like, small, generic AI-built site, without using real personal data or fake business credibility claims.
 
@@ -34,3 +34,5 @@
 4. Run Prompt 12 to evaluate evidence and regression status.
 
 Do not call the example an actual before-and-after until both versions and review evidence exist.
+
+The verified before/after sources and evidence now live under [`../examples/site-b-cedar-stone/`](../examples/site-b-cedar-stone/). The result remains an internal prompt-kit experiment, not a real business website or market validation.

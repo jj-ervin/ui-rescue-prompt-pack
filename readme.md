@@ -15,4 +15,4 @@ A planned $9 digital prompt kit for non-developers improving AI-built websites.
 - `tests/` — evaluation notes and actual test results
 - `release/` — customer-ready export files (only when validated)
 
-Status: content drafted in ChatGPT; repository product content, examples, and release remain to be produced and verified.
+Status: prompt content and the first two-site local demonstration are in the repository. The run is same-session and self-scored, so independent validation and the customer-ready release remain open.
